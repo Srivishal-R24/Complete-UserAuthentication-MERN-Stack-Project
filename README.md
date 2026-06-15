@@ -85,6 +85,20 @@ This project demonstrates the implementation of a complete authentication workfl
 <img width="1595" height="826" alt="image" src="https://github.com/user-attachments/assets/82ae001b-3693-42b7-864d-e48aaebe766e" />
 
  <img width="947" height="700" alt="image" src="https://github.com/user-attachments/assets/4e9986c5-1c59-4f54-83c7-efd031c2eb73" />
+
+ 
 <img width="1908" height="562" alt="image" src="https://github.com/user-attachments/assets/86ea43f6-f439-4625-bca6-33239524a0d9" />
+
+
 <img width="1542" height="655" alt="image" src="https://github.com/user-attachments/assets/35a58818-a2f3-45b6-bb38-373556057a13" />
+
+
+<img width="1461" height="815" alt="image" src="https://github.com/user-attachments/assets/6c710721-d35f-4281-ab41-24ce1bb5edb8" />
+
+
+<img width="1512" height="809" alt="image" src="https://github.com/user-attachments/assets/9711064a-17c9-4aaa-9a35-69490dbcc782" />
+
+============================================================================================================================
+
+
 
